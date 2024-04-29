@@ -67,7 +67,7 @@ fork to your machine using one of the commands below, depending on your OS.
 <details><summary> Linux and Mac </summary>
 
 ```sh
-git clone https://github.com/shivakuppa/NvimConfiguration "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
+git clone https://github.com/shivakuppa/NvimConfig "${XDG_CONFIG_HOME:-$HOME/.config}"/nvim
 ```
 
 </details>
@@ -77,13 +77,13 @@ git clone https://github.com/shivakuppa/NvimConfiguration "${XDG_CONFIG_HOME:-$H
 If you're using `cmd.exe`:
 
 ```
-git clone https://github.com/shivakuppa/NvimConfiguration %userprofile%\AppData\Local\nvim\
+git clone https://github.com/shivakuppa/NvimConfig %userprofile%\AppData\Local\nvim\
 ```
 
 If you're using `powershell.exe`
 
 ```
-git clone https://github.com/shivakuppa/NvimConfiguration $env:USERPROFILE\AppData\Local\nvim\
+git clone https://github.com/shivakuppa/NvimConfig $env:USERPROFILE\AppData\Local\nvim\
 ```
 
 </details>
